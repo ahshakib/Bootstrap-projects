@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #3f3d36;
+    color: whitesmoke;
+    padding-top: 100px;
+}
+li a {
+    color: whitesmoke !important;
+}
+img {
+    width: 100px;
+}
+
+.farmer-img {
+    width: 100%;
+}
+
+.form-floating {
+    color: #3f3d36;
+}
+.form-control {
+    margin-bottom: 10px;
+}
+
+
